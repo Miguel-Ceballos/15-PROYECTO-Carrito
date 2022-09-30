@@ -1,0 +1,17 @@
+{
+    "name": "Carrito de compras",
+    "short_name": "Carrito",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./img/carrito.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
